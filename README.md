@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img height="50" height="auto" src="https://user-images.githubusercontent.com/38981255/197962129-aadfa530-2dc3-46a2-9104-c6489cf3a424.jpg">
+  <img height="150" height="auto" src="https://user-images.githubusercontent.com/38981255/197962129-aadfa530-2dc3-46a2-9104-c6489cf3a424.jpg">
 </p>
 
 # OKP4 TESTNET INCENTIVIZED
